@@ -1,0 +1,47 @@
+.Nav{
+    background-color: blueviolet;
+    display: flex;
+}
+#logo{
+   /* background: purple;*/
+    margin-top: 3px;
+    width: 100px;
+    height: 80px;
+    
+}
+#links1{
+    font-size: 40px;
+    color: greenyellow;
+    text-decoration: none;
+    
+}
+#links2{
+    font-size: 40px;
+    color: greenyellow;
+    text-decoration: none;
+    text-align: left;
+}
+#x{
+  /*  margin-bottom: -13px;*/
+  /*  margin-left: 550px;*/
+    background-color: blueviolet;
+}
+#foot{
+    background-color: black;
+}
+#x2{
+    width: 120px;
+    height: 120px;
+    margin-right:120px;
+}
+body{
+    font-family:"Segoe UI";
+    background-color: #383838;
+}
+h1,span,h2{
+    
+    color: #a400f9;
+}
+.div3{
+    color: #e4e7ee;
+}
